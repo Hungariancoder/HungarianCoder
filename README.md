@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hungariancoder
+- 👋 Hi, I’m @HungarianCoder
 - 👀 I’m interested in Motorsports and technology
 - 🌱 I’m currently learning html
 - 📫 You can reach me through on the e-mail: truehungarian2@gmail.com
